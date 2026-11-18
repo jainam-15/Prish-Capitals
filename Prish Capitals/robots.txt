@@ -30,4 +30,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-Sitemap: https://financial-services-website.vercel.app/sitemap.xml
+Sitemap: https://prishcapitals.vercel.app/sitemap.xml

@@ -14,14 +14,14 @@
 - **Service Coverage**: Bangalore, Karnataka, and nationwide across India
 
 ## Core Services
-- [Home](https://financial-services-website.vercel.app/): Main portal, firm overview, client reviews, and direct consultation booking.
-- [Services](https://financial-services-website.vercel.app/services): Complete breakdown of tax, compliance, and corporate accounting services.
+- [Home](https://prishcapitals.vercel.app/): Main portal, firm overview, client reviews, and direct consultation booking.
+- [Services](https://prishcapitals.vercel.app/services): Complete breakdown of tax, compliance, and corporate accounting services.
   - **GST Services**: New GSTIN registration, monthly GSTR-1 & GSTR-3B filings, annual GSTR-9 audits, Input Tax Credit (ITC) reconciliation, and notice resolution.
   - **Income Tax Services**: Accurate ITR filing for individuals (salaried/freelancers) and corporations (ITR-1 to ITR-7), tax optimization planning, TDS management, and tax notice representation.
   - **Accounting & Bookkeeping**: Monthly ledger maintenance, bank reconciliation, Profit & Loss statements, balance sheets, and audit preparation.
   - **Business Registrations**: Udyam MSME certification, Trade Licenses, Shop & Establishment permits, Partnership firm deeds, and Import-Export Code (IEC).
-- [About Us](https://financial-services-website.vercel.app/about): Company mission, core values of integrity and excellence, and message from founder Sachin Kumar.
-- [Why Choose Us](https://financial-services-website.vercel.app/why-choose-us): Key differentiators including 98% client satisfaction, 150+ happy clients, 99+ completed projects, and dedicated personalized advisory.
-- [Testimonials](https://financial-services-website.vercel.app/testimonials): Verified client reviews and ratings from Indian business owners and startup founders.
-- [Contact Us](https://financial-services-website.vercel.app/contact): Consultation request form, Google Maps directions, and direct contact details.
+- [About Us](https://prishcapitals.vercel.app/about): Company mission, core values of integrity and excellence, and message from founder Sachin Kumar.
+- [Why Choose Us](https://prishcapitals.vercel.app/why-choose-us): Key differentiators including 98% client satisfaction, 150+ happy clients, 99+ completed projects, and dedicated personalized advisory.
+- [Testimonials](https://prishcapitals.vercel.app/testimonials): Verified client reviews and ratings from Indian business owners and startup founders.
+- [Contact Us](https://prishcapitals.vercel.app/contact): Consultation request form, Google Maps directions, and direct contact details.
 
