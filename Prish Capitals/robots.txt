@@ -1,4 +1,33 @@
+# Robots.txt for Prish Capitals (A++ SEO, GEO & AEO Ready)
 User-agent: *
+Allow: /
+
+# Explicitly welcome AI Answer & Generative Engines (Perplexity, ChatGPT, Claude, Google Gemini, Copilot)
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bingbot
 Allow: /
 
 Sitemap: https://financial-services-website.vercel.app/sitemap.xml
