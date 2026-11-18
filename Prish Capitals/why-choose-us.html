@@ -87,6 +87,27 @@
     <!-- Google AdSense -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2534153718713059"
      crossorigin="anonymous"></script>
+
+    <!-- Adsterra Popunder -->
+    <script data-cfasync="false" src="https://abscloud.org/1/c96279eebf3454be07317f4a24bbe002"></script>
+
+    <!-- Adsterra Social Bar -->
+    <script data-cfasync="false" src="https://bauval.org/14/7e2bf2f0bcb06a58f24351c3dfdcd0e9"></script>
+
+    <!-- Monetag Service Worker Registration (Site Verification & Ads) -->
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', function() {
+                navigator.serviceWorker.register('/sw.js')
+                    .then(function(reg) {
+                        console.log('Monetag ServiceWorker registered: ', reg.scope);
+                    })
+                    .catch(function(err) {
+                        console.error('Monetag ServiceWorker registration failed: ', err);
+                    });
+            });
+        }
+    </script>
 </head>
 
 <body>
@@ -209,19 +230,12 @@
         </div>
     </section>
 
-    <!-- Ad Section -->
+    <!-- Adsterra Native Banner -->
     <section class="ad-container" style="margin: 2rem auto; max-width: 1200px; text-align: center; padding: 0 1rem;">
-        <div class="container" style="background: rgba(0,0,0,0.03); border-radius: 8px; padding: 1rem;">
-            <p style="font-size: 0.7rem; color: #999; margin-bottom: 0.5rem; text-transform: uppercase; letter-spacing: 1px;">Advertisement</p>
-            <ins class="adsbygoogle"
-                 style="display:block"
-                 data-ad-client="ca-pub-2534153718713059"
-                 data-ad-slot="0000000000"
-                 data-ad-format="auto"
-                 data-full-width-responsive="true"></ins>
-            <script>
-                 (adsbygoogle = window.adsbygoogle || []).push({});
-            </script>
+        <div class="container" style="background: rgba(0,0,0,0.02); border-radius: 8px; padding: 1rem;">
+            <p style="font-size: 0.7rem; color: #999; margin-bottom: 0.5rem; text-transform: uppercase; letter-spacing: 1px;">Sponsored</p>
+            <script async="async" data-cfasync="false" src="https://bauval.org/21/060c2246c13bce444690b07cdd9f174b"></script>
+            <div id="container-060c2246c13bce444690b07cdd9f174b"></div>
         </div>
     </section>
 
